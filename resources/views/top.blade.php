@@ -4,7 +4,7 @@
 <div class="container">
   <div class="top-content">
       <h1>topです</h1>
-      <a href="#!" onclick="play()">再生</a>
+      <p>リーリーステストします</p>
   </div>
 </div>
 @endsection
