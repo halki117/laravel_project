@@ -5405,6 +5405,8 @@ __webpack_require__.r(__webpack_exports__);
  */
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
+__webpack_require__(/*! ./sample */ "./resources/js/sample.js");
+
 window.Vue = (__webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm.js")["default"]);
 /**
  * The following block of code may be used to automatically register your
@@ -5461,6 +5463,18 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 //     key: process.env.MIX_PUSHER_APP_KEY,
 //     cluster: process.env.MIX_PUSHER_APP_CLUSTER,
 //     forceTLS: true
+// });
+
+/***/ }),
+
+/***/ "./resources/js/sample.js":
+/*!********************************!*\
+  !*** ./resources/js/sample.js ***!
+  \********************************/
+/***/ (() => {
+
+// $(function(){
+//     console.log('ok');
 // });
 
 /***/ }),
