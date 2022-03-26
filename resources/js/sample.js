@@ -1,3 +1,3 @@
-// $(function(){
-//     console.log('ok');
-// });
+$(function(){
+    console.log('ok');
+});

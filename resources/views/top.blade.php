@@ -8,9 +8,4 @@
   </div>
 </div>
 @endsection
-<script>
-  function play(){
-    var music = new Audio('yume.mp3');
-    music.play();
-  }
-</script>
+<script src="{{ mix('js/sample.js') }}"></script>
